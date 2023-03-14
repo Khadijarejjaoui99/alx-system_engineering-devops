@@ -18,4 +18,8 @@
 
 9-divide_and_rule a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 
-10-love_exponent_breath  a script that displays the result of BREATH to the power LOVE
+10-love_exponent_breath  a script that displays the result of BREATH to the power LOVE.
+
+11-binary_to_decimal a script that converts a number from base 2 to base 10.
+
+
